@@ -42,8 +42,8 @@ ScrollReveal().reveal(".about__image img", {
 ScrollReveal().reveal(".about__content .section__header", {
   ...scrollRevealOption,
   delay: 500,
-});
+})
 ScrollReveal().reveal(".about__content > div", {
   ...scrollRevealOption,
   delay: 1000,
-});
+})
